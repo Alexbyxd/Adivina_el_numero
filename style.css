@@ -1,0 +1,33 @@
+body{
+    background-image:url(https://i.pinimg.com/236x/ea/33/65/ea33657668cb17072e3d9bff6503ad4f.jpg);
+    background-size: cover ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+div{
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#boton{
+    border-radius: 30px;
+    color: white;
+    font-size: 15px;
+    width: 100px;
+    height: 30px;
+    font-family: 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(75, 30, 65);
+}
+
+#pantalla{
+    width: 200px;
+    height: 20px;
+    font-size: large;
+}
+
+#mensaje{
+    color: black;
+    
+}
